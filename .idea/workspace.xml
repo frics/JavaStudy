@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09fc5ec1-3e09-4084-92cd-d2b34d9a22eb" name="Default Changelist" comment="" />
+    <list default="true" id="09fc5ec1-3e09-4084-92cd-d2b34d9a22eb" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/Calc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/DivideByZero.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/IrregularArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/ReturnArray.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/ScoreAverage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/DivideByZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/IrregularArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/ReturnArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/example/ScoreAverage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/example/foreachEx$Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/foreachEx$Week.class" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
