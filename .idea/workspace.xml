@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09fc5ec1-3e09-4084-92cd-d2b34d9a22eb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/Calc.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/DivideByZero.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/IrregularArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/ReturnArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/ScoreAverage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/Calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/DivideByZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/IrregularArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/ReturnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/example/ScoreAverage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaStudy/example/foreachEx$Week.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaStudy/example/foreachEx$Week.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +48,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayException">
-    <configuration name="ArrayException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.ArrayException" />
+  <component name="RunManager" selected="Application.GarbageEX">
+    <configuration name="ArrayParameterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.ArrayParameterEx" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -75,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DevideByZeroHandling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.DevideByZeroHandling" />
+    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.BookArray" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -88,8 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DivideByZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.DivideByZero" />
+    <configuration name="CircleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.CircleArray" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IrregularArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.IrregularArray" />
+    <configuration name="GarbageEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.GarbageEX" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +101,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReturnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.ReturnArray" />
+    <configuration name="thisFuncBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.thisFuncBook" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArrayException" />
-        <item itemvalue="Application.DevideByZeroHandling" />
-        <item itemvalue="Application.DivideByZero" />
-        <item itemvalue="Application.ReturnArray" />
-        <item itemvalue="Application.IrregularArray" />
+        <item itemvalue="Application.GarbageEX" />
+        <item itemvalue="Application.ArrayParameterEx" />
+        <item itemvalue="Application.BookArray" />
+        <item itemvalue="Application.CircleArray" />
+        <item itemvalue="Application.thisFuncBook" />
       </list>
     </recent_temporary>
   </component>
