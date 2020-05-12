@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="09fc5ec1-3e09-4084-92cd-d2b34d9a22eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/example/CircleArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/example/CircleArray.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,6 +31,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="DataStructure" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -48,9 +50,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.GarbageEX">
-    <configuration name="ArrayParameterEx" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.ArrayParameterEx" />
+  <component name="RunManager" selected="Application.Rectangle">
+    <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Characters" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Grade" />
+      <module name="JavaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Rectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Rectangle" />
+      <module name="JavaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TernaryOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.TernaryOperator" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -62,47 +84,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BookArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.BookArray" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CircleArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.CircleArray" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GarbageEX" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.GarbageEX" />
-      <module name="JavaStudy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="example.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="thisFuncBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example.thisFuncBook" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example.Test" />
       <module name="JavaStudy" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +99,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.GarbageEX" />
-        <item itemvalue="Application.ArrayParameterEx" />
-        <item itemvalue="Application.BookArray" />
-        <item itemvalue="Application.CircleArray" />
-        <item itemvalue="Application.thisFuncBook" />
+        <item itemvalue="Application.Rectangle" />
+        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.Characters" />
+        <item itemvalue="Application.TernaryOperator" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
