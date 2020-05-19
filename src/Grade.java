@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+//chap4_2
 public class Grade {
     private int subject1, subject2, subject3;
     private Grade(int subject1, int subject2, int subject3){
