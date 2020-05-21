@@ -3,8 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="09fc5ec1-3e09-4084-92cd-d2b34d9a22eb" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Grade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DicApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DicApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Grade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap4_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PhoneBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PhoneBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Chap4_4.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -51,22 +53,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DicApp">
-    <configuration name="Characters" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Characters" />
+  <component name="RunManager" selected="Application.Chap4_12">
+    <configuration name="Chap4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4_12" />
+      <module name="JavaStudy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Chap4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Chap4_4" />
+      <module name="JavaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="DicApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DicApp" />
-      <module name="JavaStudy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Grade" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Grade" />
       <module name="JavaStudy" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -88,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Chap4_12" />
         <item itemvalue="Application.DicApp" />
         <item itemvalue="Application.PhoneBook" />
-        <item itemvalue="Application.Grade" />
+        <item itemvalue="Application.Chap4_4" />
         <item itemvalue="Application.Rectangle" />
-        <item itemvalue="Application.Characters" />
       </list>
     </recent_temporary>
   </component>
