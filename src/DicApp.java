@@ -14,9 +14,9 @@ public class DicApp {
                 break;
             eng = Dictionary.kor2Eng(kor);
             if(eng == null)
-                System.out.println(kor+"은 저의 사전에 없습니다.");
+                System.out.println(kor+"은(는) 저의 사전에 없습니다.");
             else
-                System.out.println(kor+"은 "+eng);
+                System.out.println(kor+"은(는) "+eng);
 
         }
     }

@@ -3,17 +3,17 @@ import java.util.Scanner;
 //chap4_8
 public class PhoneBook {
     Scanner scanner = new Scanner(System.in);
-    int people; //인원수를 받기 위한 변수
-    String name; //각 Phone 객체에 들어갈 이름을 받을 변수
-    String tel; //각 Phone 객체에 들어갈 전화번호를 받을 변수
-    Phone phone[];
+    private int people; //인원수를 받기 위한 변수
+    private String name; //각 Phone 객체에 들어갈 이름을 받을 변수
+    private String tel; //각 Phone 객체에 들어갈 전화번호를 받을 변수
+    private Phone phone[];
 
-    void getPeople(){
+    private void getPeople(){ //
         System.out.print("인원수>>");
         people = scanner.nextInt();
         phone = new Phone[people];
     }
-    void inputNumber(){
+    private void inputNumber(){
         for(int i=0; i<phone.length; i++){
             System.out.print("이름과 번호는 빈 칸없이 입력)>>>");
             name = scanner.next();
@@ -22,7 +22,7 @@ public class PhoneBook {
         }
         System.out.println("저장되었습니다...");
     }
-    void searchNumber(){
+    private void searchNumber(){
         while(true){
             System.out.print("검색할 이름>>");
             name = scanner.next();
@@ -38,7 +38,6 @@ public class PhoneBook {
                 if(count == phone.length)
                     System.out.println(name+"이(가) 없습니다.");
             }
-
         }
     }
     public static void main(String[] args){

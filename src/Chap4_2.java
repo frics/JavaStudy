@@ -1,15 +1,15 @@
 import java.util.Scanner;
 
 class Grade {
-    private int subject1, subject2, subject3;
+    private int math, science, english;
 
-    Grade(int subject1, int subject2, int subject3){
-        this.subject1 = subject1;
-        this.subject2 = subject2;
-        this.subject3 = subject3;
+    Grade(int math, int science, int english){
+        this.math = math;
+        this.science = science;
+        this.english = english;
     }
     int average(){
-        return (subject1+subject2+subject3)/3;
+        return (math+science+english)/3;
     }
 }
 public class Chap4_2{
