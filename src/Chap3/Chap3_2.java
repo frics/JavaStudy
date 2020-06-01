@@ -1,3 +1,5 @@
+package Chap3;
+
 public class Chap3_2 {
     public static void main(String[] args){
 

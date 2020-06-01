@@ -1,5 +1,5 @@
 import  java.util.Scanner;
-
+/*
 public class ManageStudent {
     public static void main(String[] args) {
         Dobject start, n, obj;
@@ -17,6 +17,7 @@ public class ManageStudent {
 
     }
 }
+
     class Dobject{
         public Dobject next;
         public Dobject(){
@@ -42,4 +43,4 @@ public class ManageStudent {
         }
     }
 
-
+*/

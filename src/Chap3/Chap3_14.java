@@ -1,3 +1,5 @@
+package Chap3;
+
 import java.util.Scanner;
 
 public class Chap3_14 {

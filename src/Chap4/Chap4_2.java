@@ -1,3 +1,5 @@
+package Chap4;
+
 import java.util.Scanner;
 
 class Grade {

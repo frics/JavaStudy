@@ -1,3 +1,5 @@
+package Chap4;
+
 //chap4_4
 class Rectangle {
     private int x, y, width, height;

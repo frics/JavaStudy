@@ -1,3 +1,5 @@
+package Chap3;
+
 public class Chap3_10 {
     public static void main(String[] args){
         int matrix[][] = new int[4][4];
